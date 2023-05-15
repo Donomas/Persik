@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Persik/static/css/main.b011d340.css",
-    "main.js": "/Persik/static/js/main.ac2f1b74.js",
+    "main.js": "/Persik/static/js/main.c231634e.js",
     "static/media/persik.png": "/Persik/static/media/persik.ae9f00727841e011ac15.png",
     "index.html": "/Persik/index.html",
     "main.b011d340.css.map": "/Persik/static/css/main.b011d340.css.map",
-    "main.ac2f1b74.js.map": "/Persik/static/js/main.ac2f1b74.js.map"
+    "main.c231634e.js.map": "/Persik/static/js/main.c231634e.js.map"
   },
   "entrypoints": [
     "static/css/main.b011d340.css",
-    "static/js/main.ac2f1b74.js"
+    "static/js/main.c231634e.js"
   ]
 }
